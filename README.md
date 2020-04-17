@@ -1,0 +1,1 @@
+# mob_tab_adaptive_script
